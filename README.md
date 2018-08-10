@@ -35,4 +35,4 @@ which uses PHP's Standalone QR Code library GD library to generate and decode QR
  **Libern QR Code Reader**
  https://packagist.org/packages/libern/qr-code-reader
 ## License
-This App is licenced to MIT LICENSE
+Copyright (c) 2018 Lanwil DS <br>This App is licenced to MIT LICENSE
