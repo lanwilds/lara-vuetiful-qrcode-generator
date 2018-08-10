@@ -1,0 +1,1 @@
+<img src="<?php echo e(url('/api/qr-code.png')); ?>">
